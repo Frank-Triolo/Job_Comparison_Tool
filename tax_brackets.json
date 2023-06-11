@@ -1,0 +1,46 @@
+{
+  "tax_brackets": [
+    {
+      "rate": 37,
+      "income_min": 578125,
+      "income_max": null,
+      "total_tax_prior_brackets": 0
+    },
+    {
+      "rate": 35,
+      "income_min": 231250,
+      "income_max": 578125,
+      "total_tax_prior_brackets": 0
+    },
+    {
+      "rate": 32,
+      "income_min": 182100,
+      "income_max": 231250,
+      "total_tax_prior_brackets": 0
+    },
+    {
+      "rate": 24,
+      "income_min": 95375,
+      "income_max": 182100,
+      "total_tax_prior_brackets": 0
+    },
+    {
+      "rate": 22,
+      "income_min": 44725,
+      "income_max": 95375,
+      "total_tax_prior_brackets": 0
+    },
+    {
+      "rate": 12,
+      "income_min": 11000,
+      "income_max": 44725,
+      "total_tax_prior_brackets": 0
+    }
+  ],
+  "standard_deduction": {
+    "single": 13850,
+    "married_filing_jointly": 27700,
+    "married_filing_separately": 13850,
+    "head_of_household": 20800
+  }
+}

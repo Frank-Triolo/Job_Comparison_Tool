@@ -1,0 +1,61 @@
+{
+  "tax_brackets": [
+    {
+      "rate": 1,
+      "income_min": 0,
+      "income_max": 10099,
+      "total_tax_prior_brackets": 0
+    },
+    {
+      "rate": 2,
+      "income_min": 10100,
+      "income_max": 23942,
+      "total_tax_prior_brackets": 100.99
+    },
+    {
+      "rate": 4,
+      "income_min": 23943,
+      "income_max": 37788,
+      "total_tax_prior_brackets": 377.85
+    },
+    {
+      "rate": 6,
+      "income_min": 37789,
+      "income_max": 52455,
+      "total_tax_prior_brackets": 931.69
+    },
+    {
+      "rate": 8,
+      "income_min": 52456,
+      "income_max": 66295,
+      "total_tax_prior_brackets": 1811.71
+    },
+    {
+      "rate": 9.3,
+      "income_min": 66296,
+      "income_max": 338639,
+      "total_tax_prior_brackets": 2918.91
+    },
+    {
+      "rate": 10.3,
+      "income_min": 338640,
+      "income_max": 406364,
+      "total_tax_prior_brackets": 28246.9
+    },
+    {
+      "rate": 11.3,
+      "income_min": 406365,
+      "income_max": 677275,
+      "total_tax_prior_brackets": 35222.58
+    },
+    {
+      "rate": 12.3,
+      "income_min": 677276,
+      "income_max": null,
+      "total_tax_prior_brackets": 65835.52
+    }
+  ],
+  "standard_deduction": {
+    "single": 5202
+  }
+}
